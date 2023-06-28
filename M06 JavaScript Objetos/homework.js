@@ -140,6 +140,7 @@ function sumarLikesDeUsuario(objetoUsuario) {
 }
 
 // FUNCTION DEFINIDA CON =
+// THIS se refiere a la propiedad dentro del contexto de la función
 function agregarMetodoCalculoDescuento(objetoProducto) {
    // Agrega una propiedad al "objetoProducto" con el nombre "calcularPrecioDescuento".
    // Esta propiedad debe ser una función que multiplique el precio del producto por el porcentajeDeDescuento.
